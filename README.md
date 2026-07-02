@@ -91,9 +91,9 @@ This notebook was originally built and run in **Google Colab**.
 
 **Logistic Regression performed best on the text dataset** (62.54% accuracy) — it handles high-dimensional sparse TF-IDF features well without assuming feature independence. **SVM performed best on the structured survey dataset** (60.70% accuracy), benefiting from clearly defined numeric features and feature scaling. Naive Bayes underperformed on text data due to its independence assumption not holding for natural language.
 
-![Model comparison and confusion matrix](images/personality_prediction_results_1.png)
+![Model comparison and confusion matrix](personality_prediction_results_1.png)
 
-![Detailed metrics breakdown](images/detailed_metrics_chart.png)
+![Detailed metrics breakdown](detailed_metrics_chart.png)
 
 For the full write-up (methodology, discussion, limitations, future work), see [`IIS_Project_Report.pdf`](IIS_Project_Report.pdf).
 
