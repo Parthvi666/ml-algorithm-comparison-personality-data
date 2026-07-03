@@ -5,7 +5,7 @@ A machine learning project comparing **Naive Bayes**, **Logistic Regression**, a
 1. **Text data** — predicting MBTI personality type from social media posts
 2. **Structured data** — predicting a behavioral trait from a Young People survey dataset
 
-This was completed as a university mini-project for an Introduction to Intelligent Systems course.
+This was completed as a university mini-project for an Intelligent Information Systems course.
 
 ## Overview
 
@@ -40,10 +40,9 @@ Each model is scored on **Accuracy, Precision, Recall, and F1-Score**.
 ├── IIS_Mini_Project_3(final).ipynb    # Main notebook: preprocessing, training, evaluation, visualizations
 ├── IIS_Project_Report.pdf             # Full project report
 ├── datasets/
-│   └── survey_dataset/                # Young People Survey dataset
-├── images/
-│   ├── personality_prediction_results_1.png   # Model comparison charts + confusion matrix
-│   └── detailed_metrics_chart.png              # Accuracy/Precision/Recall/F1 breakdown
+│   └── survey_dataset/                # Young People Survey dataset (MBTI dataset linked below, not included — see Datasets section)
+├── personality_prediction_results_1.png   # Model comparison charts + confusion matrix
+├── detailed_metrics_chart.png             # Accuracy/Precision/Recall/F1 breakdown
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -111,4 +110,3 @@ Parthvi Rathod
 ## License
 
 This project was created for academic purposes as part of a university course assignment.
-
