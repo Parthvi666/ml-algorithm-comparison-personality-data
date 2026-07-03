@@ -93,7 +93,7 @@ This notebook was originally built and run in **Google Colab**.
 
 ![Model comparison and confusion matrix](personality_prediction_results_1.png)
 
-![Detailed metrics breakdown](detailed metrics chart.png)
+![Detailed metrics breakdown](detailed_metrics_chart.png)
 
 For the full write-up (methodology, discussion, limitations, future work), see [`IIS_Project_Report.pdf`](IIS_Project_Report.pdf).
 
